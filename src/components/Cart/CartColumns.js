@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import ProductList from '../ProductList';
 
 export default class CartColumns extends Component {
     render() {
